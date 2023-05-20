@@ -1,2 +1,3 @@
 # MathData-Empowering-Data-Science-With-Mathematical-Tools-RJ
- Contains resources and assignmetns submissions for the project done by me.
+
+MathData-Empowering Data Science With Mathematical Tools is a project undertaken by me, offered by STAMATICS, IIT Kanpur. This repo contains assignments submissions for the project. Resources for this project will be published once the project will be over. 
